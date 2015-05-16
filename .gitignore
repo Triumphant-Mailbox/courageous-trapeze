@@ -17,7 +17,6 @@ coverage
 
 # Compiled Dirs/files
 client/build/
-client/app/app.min.js
 
 # Dependency directories
 node_modules/
