@@ -18,9 +18,9 @@ As of v0.0.1, the product is composed of two UIs—the web app and the mobile ap
 
 ## Team
 
-  - __Product Owner__: Melanie Gin
-  - __Scrum Master__: Kevin Huang
-  - __Development Team Members__: Melanie Gin, Mike Harris, Kevin Huang, John Yeglinski
+  - __Product Owner__: Melanie Gin, Kurt Bartholomew
+  - __Scrum Master__: Kevin Huang, Mark Bennett
+  - __Development Team Members__: Melanie Gin, Mike Harris, Kevin Huang, John Yeglinski, Vivek Tumrukota, Steven Shyun
 
 ## Requirements
 
